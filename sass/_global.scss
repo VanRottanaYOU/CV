@@ -1,0 +1,29 @@
+// *{
+    
+// }
+
+body{
+    color: $color-texte;
+    background-color: $color-background-body;
+}
+
+.row{
+    margin:0;
+    padding: 0;
+}
+
+a{
+    color: $color-a;
+    font-weight: bold;
+}
+
+h5{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: $color-titre;
+    font-weight: bold;
+}
+
+i{
+    color: $color-titre;
+}

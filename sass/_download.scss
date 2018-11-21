@@ -1,0 +1,17 @@
+#download {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: $color-background-body;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border-radius: 50%;
+}
+
+.fa-file-download{
+    font-size: 1rem;
+    color: white;
+}
+
+#download:hover {
+    background-color: $color-background-divison;
+}
